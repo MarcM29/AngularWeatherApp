@@ -11,7 +11,7 @@ Provide URL of your deployed Angular app: https://group16-fp-6ed07.web.app/
 
 ***
 
-Project Description:
+Project Description: <br /><br />
 [10%] Show current date and time, formatted as “2020-01-20 14:01:59”. Use Angular DatePipe module for this feature <br />
 [10%] Refresh your date and time display every second. Use the standard JavaScript setInterval function for this. <br />
 [20%] Show current Paris, Ontario temperature measured in degrees Celsius using Open Weather Map API.<br />
