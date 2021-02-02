@@ -1,3 +1,4 @@
+# *This was a school project from 2020*
 # group16-FP
 Authors: Marc McCombe, Sean Lu
 
