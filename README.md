@@ -1,4 +1,5 @@
 # group16-FP
+Authors: Marc McCombe, Sean Lu
 
 CPS847 Final Project
 
